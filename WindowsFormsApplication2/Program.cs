@@ -21,5 +21,10 @@ namespace WindowsFormsApplication2
             //fix
             method();
         }
+        private static void method()
+        {
+            //method1
+            var a = 0;
+        }
     }
 }
