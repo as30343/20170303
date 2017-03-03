@@ -19,6 +19,11 @@ namespace WindowsFormsApplication2
             Application.Run(new Form1());
 
             //fix
+            method();
+        }
+        private void method()
+        {
+            //method1
         }
     }
 }
