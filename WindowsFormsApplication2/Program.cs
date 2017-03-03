@@ -24,6 +24,7 @@ namespace WindowsFormsApplication2
         private static void method()
         {
             //method1
+            var a = 0;
         }
     }
 }
