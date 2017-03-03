@@ -21,7 +21,7 @@ namespace WindowsFormsApplication2
             //fix
             method();
         }
-        private void method()
+        private static void method()
         {
             //method1
         }
